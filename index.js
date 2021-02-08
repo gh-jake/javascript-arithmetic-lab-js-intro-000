@@ -23,3 +23,7 @@ function decrement(n) {
   n--;
   return n;
 }
+
+makeInt(n) {
+  
+}
